@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TreeDiagram"]
+	path = TreeDiagram
+	url = https://github.com/teemteemwang/treediagram
+	shallow = true
+	registered = true
